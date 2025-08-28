@@ -38,7 +38,7 @@ UPDATE_PACKAGE() {
 # 调用示例
 # UPDATE_PACKAGE "open-app-filter" "destan19/OpenAppFilter" "master" "" "luci-app-appfilter oaf"
 # 这样会把原有的 open-app-filter，luci-app-appfilter，oaf 相关组件删除，不会出现 coremark 错误
-UPDATE_PACKAGE "luci-app-adguardhome" "sirpdboy/luci-app-adguardhome" "js"
+UPDATE_PACKAGE "luci-app-adguardhome" "TXMAN/luci-app-adguardhome" "master"
 #UPDATE_PACKAGE "argon" "sbwml/luci-theme-argon" "openwrt-24.10"
 #UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "js"
 #UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
