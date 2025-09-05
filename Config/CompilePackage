@@ -1,5 +1,8 @@
 # LuciApp
-CONFIG_PACKAGE_luci-app-adguardhome=m
+CONFIG_PACKAGE_luci-app-oaf=m
+CONFIG_PACKAGE_oaf=m
+CONFIG_PACKAGE_open-app-filter=m
+
 # 基础软件包
 # CONFIG_PACKAGE_luci-app-ttyd=m
 # CONFIG_PACKAGE_luci-app-cpufreq=m
